@@ -1,2 +1,0 @@
-# robopragma-inject
-cheat slot
